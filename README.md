@@ -12,7 +12,7 @@
 
 # How to run this projects
 ```sh
-git clone 
+git clone https://github.com/LeonardoBrambilla/firebase-gallery-and-authentication.git
 npm install
 npm run server
 ```
